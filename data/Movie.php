@@ -28,5 +28,5 @@ class  Movie {
 $una_volta_hollywood = new Movie("C'era una volta a... Hollywood", "Once Upon a Time in Hollywood", 2019, "commedia, drammatico");
 $bastardi_senza_gloria = new Movie("Bastardi senza gloria", "Inglorios bastards", 2009, "guerra, azione, thriller");
 $inception = new Movie("Inception", "Inception", 2010, "azione, fantascienza, thriller, avventura");
-
+$inception->setTitle("Vecchio film di Di Capra, bello bello")
 ?>
